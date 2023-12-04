@@ -1,0 +1,7 @@
+# filemanager.yaml
+apiVersion: example.com/v1
+kind: FileManager
+metadata:
+  name: example-filemanager
+spec:
+  files: 3
